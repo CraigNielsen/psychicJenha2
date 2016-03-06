@@ -1,26 +1,9 @@
-gulp-webpack-react-HMR-boilerplate
+Psychic Jenha 2.0
 ===
 
-Webpack Hot Module Replacement boilerplate using Gulp for a React.js app using [react-hot-reloader](https://github.com/gaearon/react-hot-loader)
+No need for build instructions
 
-Install
----
 
 ```
-$ git clone https://github.com/vohof/gulp-webpack-HMR-boilerplate
-$ npm install
-```
-
-Develop
----
-
-```
-$ gulp
-```
-
-Build
----
-
-```
-$ gulp build
+Having a bit of fun
 ```
